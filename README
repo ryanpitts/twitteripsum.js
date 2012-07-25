@@ -10,4 +10,4 @@ There are easy config options for:
 * groupers: words that will stay attached to the term that follows them
 * grafs: the number of paragraphs, and the words in each, for your ipsum
 
-Twitter Ipsum expects that somewhere in your markup, you'll provide a <div id="ipsum"> or <textarea id="ipsum"> to dump text into. If you provide a container with id="tweet-it", it will also dump in a Twitter button with a random quote as text. There's a config option to sign those tweets with a "via @username."
+Twitter Ipsum expects that somewhere in your markup, you'll provide a <div id="ipsum"> or <textarea id="ipsum"> to dump text into. If you provide a container with id="tweet-it", it will also add a Twitter button with a random quote as text. There's a config option to sign those tweets with a "via @username."
